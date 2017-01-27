@@ -239,7 +239,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1283.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1284.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -364,7 +364,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-2017-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "easteregg.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -465,7 +465,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1283.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1284.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -682,7 +682,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1283.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1284.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -938,7 +938,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1283.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1284.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1039,7 +1039,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-2017-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "easteregg.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
