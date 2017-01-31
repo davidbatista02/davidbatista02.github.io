@@ -239,7 +239,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1286.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1287.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -253,7 +253,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br><strong><br></strong>Miami, Florida 33194<br>15320 SW 9th way&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: dbatista@miamiartsstudio.com<br>\nPhone: +1 (786)-(397)-(5427)<br><br>",
           "text3": ""
         },
@@ -465,7 +465,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1286.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1287.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -479,7 +479,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br><strong><br></strong>Miami, Florida 33194<br>15320 SW 9th way&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: dbatista@miamiartsstudio.com<br>\nPhone: +1 (786)-(397)-(5427)<br><br>",
           "text3": ""
         },
@@ -682,7 +682,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1286.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1287.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -696,7 +696,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br><strong><br></strong>Miami, Florida 33194<br>15320 SW 9th way&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: dbatista@miamiartsstudio.com<br>\nPhone: +1 (786)-(397)-(5427)<br><br>",
           "text3": ""
         },
@@ -938,7 +938,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1286.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1287.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -952,7 +952,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br><strong><br></strong>Miami, Florida 33194<br>15320 SW 9th way&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: dbatista@miamiartsstudio.com<br>\nPhone: +1 (786)-(397)-(5427)<br><br>",
           "text3": ""
         },
@@ -1112,7 +1112,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1286.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1287.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1126,7 +1126,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br><strong><br></strong>Miami, Florida 33194<br>15320 SW 9th way&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: dbatista@miamiartsstudio.com<br>\nPhone: +1 (786)-(397)-(5427)<br><br>",
           "text3": ""
         },
