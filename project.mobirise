@@ -124,7 +124,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -140,8 +140,8 @@
           },
           "title1": "Graphic Designer",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption1": "I like to work with with computers<br>and I like to design logos and just make&nbsp;<br>art in general. Graphic Design would take me on a different artistic journey.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -239,7 +239,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1287.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1288.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -465,7 +465,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1287.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1288.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -682,7 +682,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1287.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1288.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -938,7 +938,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1287.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1288.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1112,7 +1112,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1287.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1288.jpg",
               "width": 128,
               "active": true,
               "link": "",
