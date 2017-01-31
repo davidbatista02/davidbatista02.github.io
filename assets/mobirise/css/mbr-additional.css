@@ -685,7 +685,7 @@ h6,
 }
 #menu-l .link[aria-expanded="true"],
 #menu-l .dropdown-item[aria-expanded="true"] {
-  color: #c0a375 !important;
+  color: #c0a375!important;
 }
 #menu-l.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -754,7 +754,7 @@ h6,
 }
 #menu-l .link[aria-expanded="true"],
 #menu-l .dropdown-item[aria-expanded="true"] {
-  color: #c0a375 !important;
+  color: #c0a375!important;
 }
 #menu-l.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;

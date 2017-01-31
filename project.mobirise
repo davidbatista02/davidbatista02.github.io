@@ -239,7 +239,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1286.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -465,7 +465,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1286.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -682,7 +682,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1286.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -938,7 +938,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1286.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1001,7 +1001,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a375!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1084,7 +1084,7 @@
           "_name": "content7",
           "_anchor": "content7-x",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "6",
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
@@ -1112,7 +1112,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1285.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1286.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1192,7 +1192,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a375!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
