@@ -46,14 +46,17 @@
               "color": "#000000"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "right",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             }
           },
           "_anchor": "msg-box5-2",
           "_params": {
             "imageSize": "43",
             "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/elephant-background-2000x1125-20.jpg",
@@ -94,7 +97,7 @@
             }
           },
           "title": "Biography",
-          "text": "Biography",
+          "text": "I am David Batista a young artist who has gone into the art of graphic design and media design. &nbsp; I started going into design at the age of 11. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -239,7 +242,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12815.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12816.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -465,7 +468,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12815.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12816.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -682,7 +685,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12815.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12816.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -938,7 +941,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12815.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12816.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1112,7 +1115,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12815.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12816.jpg",
               "width": 128,
               "active": true,
               "link": "",
