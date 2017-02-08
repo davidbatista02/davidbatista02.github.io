@@ -97,7 +97,7 @@
             }
           },
           "title": "Biography",
-          "text": "I am David Batista a young artist who has gone into the art of graphic design and media design. &nbsp; I started going into design at the age of 11. &nbsp;",
+          "text": "I am David Batista a young artist who has gone into the art of graphic design and media design. I started going into design at the age of 11. I’ve been into technology and art for almost my whole life. I love looking outside the box and sometimes I even look inside of it. Sometimes I look at things and I get inspired, there are so many views on the world that you can’t even count them. There’s so many ways to describe a single moment in time, we all make art even if we don’t realize it. \n. \n \n",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -242,7 +242,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12817.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1280.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -468,7 +468,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12817.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1280.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -685,7 +685,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12817.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1280.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -941,7 +941,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12817.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1280.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1091,9 +1091,9 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text1": "<p>I am David Batista a young artist who has gone into the art of graphic design and media design. I started going into design at the age of 11. I’ve been into technology and art for almost my whole life. I love looking outside the box and sometimes I even look inside of it. Sometimes I look at things and I get inspired, there are so many views on the world that you can’t even count them. There’s so many ways to describe a single moment in time, we all make art even if we don’t realize it. \r</p>",
+          "text2": "",
+          "text3": ""
         },
         {
           "_tags": [
@@ -1115,7 +1115,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12817.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1280.jpg",
               "width": 128,
               "active": true,
               "link": "",
