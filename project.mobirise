@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 37,
+    "uniqCompNum": 38,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -242,7 +242,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -407,14 +407,45 @@
       },
       "components": [
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
+          "_name": "gallery3",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/david-batista-7-2000x2103-800x841.jpg",
+                "image": "@PROJECT_PATH@/assets/images/david-batista-7-2000x2103.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/avengers-done-2000x982-800x392.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-done-2000x982.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/back-to-the-future-revised-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/back-to-the-future-revised-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
               {
                 "tags": "Animated",
                 "playVideo": false,
@@ -424,27 +455,17 @@
                 "image": "@PROJECT_PATH@/assets/images/david-batista-poster-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/david-batista-12-inch-record-layout-2000x3714-800x1485.jpg",
-                "image": "@PROJECT_PATH@/assets/images/david-batista-12-inch-record-layout-2000x3714.jpg",
-                "caption": "Type caption here",
-                "active": false
               }
             ],
-            "spacing": 0,
+            "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery1-b",
+          "_anchor": "gallery3-11",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -468,7 +489,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -503,10 +524,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -685,7 +706,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -941,7 +962,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1115,7 +1136,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
               "width": 128,
               "active": true,
               "link": "",

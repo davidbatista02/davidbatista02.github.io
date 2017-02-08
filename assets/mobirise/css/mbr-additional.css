@@ -507,11 +507,11 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #menu-9 .link {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
 }
 #menu-9 .dropdown-item,
 #menu-9 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.812rem;
 }
 #menu-9 .link:hover,
 #menu-9 .dropdown-item:hover,
