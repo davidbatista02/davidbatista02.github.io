@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "adobedreamweaver.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -242,7 +242,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12824.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12825.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -346,7 +346,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -589,7 +589,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12824.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12825.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -669,7 +669,7 @@
           "_anchor": "menu-9",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -806,7 +806,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12824.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12825.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -886,7 +886,7 @@
           "_anchor": "menu-h",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -1029,7 +1029,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12824.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12825.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1109,7 +1109,7 @@
           "_anchor": "menu-l",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -1204,7 +1204,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12824.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12825.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1304,7 +1304,7 @@
           "_anchor": "menu-l",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -1430,7 +1430,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12824.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12825.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1465,10 +1465,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1510,7 +1510,7 @@
           "_anchor": "menu-14",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
