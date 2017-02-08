@@ -242,7 +242,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12821.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12822.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -589,7 +589,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12821.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12822.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -806,7 +806,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12821.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12822.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -841,10 +841,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1029,7 +1029,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12821.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12822.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1203,7 +1203,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12821.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12822.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1255,10 +1255,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
