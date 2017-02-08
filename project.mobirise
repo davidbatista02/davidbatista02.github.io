@@ -242,7 +242,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1283.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -454,13 +454,113 @@
                 "thumb": "@PROJECT_PATH@/assets/images/david-batista-poster-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/david-batista-poster-2000x2962.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/david-batista-pink-floyd-inside-label-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/david-batista-pink-floyd-inside-label-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hulk-logo-3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hulk-logo-3-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/marvel-symbols-comepleted-6-2000x1973-800x789.jpg",
+                "image": "@PROJECT_PATH@/assets/images/marvel-symbols-comepleted-6-2000x1973.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/david-batista-12-inch-record-layout-2000x3714-800x1485.jpg",
+                "image": "@PROJECT_PATH@/assets/images/david-batista-12-inch-record-layout-2000x3714.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pink-floyd-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pink-floyd-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/robot-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/robot-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/star-wars-compilation-david-batista-2000x666-800x266.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-wars-compilation-david-batista-2000x666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-02-07-at-7-2000x2606-800x1042.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-02-07-at-7-2000x2606.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/star-trek-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-trek-2000x1125.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -489,7 +589,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1283.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -706,7 +806,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1283.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -962,7 +1062,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1283.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1136,7 +1236,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1283.jpg",
               "width": 128,
               "active": true,
               "link": "",
