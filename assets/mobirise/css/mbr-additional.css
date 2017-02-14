@@ -1,9 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
 
 
 
@@ -414,14 +412,6 @@ h6,
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
-}
-#msg-box5-2 H3 {
-  color: #000000;
-}
-#msg-box5-2 P {
-  color: #000000;
-  text-align: right;
-  font-family: 'Droid Sans', sans-serif;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
