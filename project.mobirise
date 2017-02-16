@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "adobephotoshop.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -63,7 +63,7 @@
           },
           "title": "David Batista<br><br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ENTER FOR MORE</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"biography.html\" data-toolbar=\"-mbrBtnMove\">ENTER FOR MORE</a> "
         },
         {
           "_inherit": "features3",
@@ -207,7 +207,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12842.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -496,10 +496,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/star-wars-compilation-david-batista-2000x666-800x266.jpg",
-                "image": "@PROJECT_PATH@/assets/images/star-wars-compilation-david-batista-2000x666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/star-wars-scene-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-wars-scene-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -519,7 +519,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/star-trek-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/star-trek-2000x1125.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
@@ -554,7 +554,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12842.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -589,10 +589,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -771,7 +771,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12842.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -994,7 +994,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12842.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1145,7 +1145,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text1": "<p>I am David Batista a young artist who has gone into the art of graphic design and media design. I started going into design at the age of 11. I’ve been into technology and art for almost my whole life. I love looking outside the box and sometimes I even look inside of it. Sometimes I look at things and I get inspired, there are so many views on the world that you can’t even count them. There’s so many ways to describe a single moment in time, we all make art even if we don’t realize it. \r</p>",
+          "text1": "<p>I am David Batista a young artist who has gone into the art of graphic design and media design. I started going into design at the age of 11. I’ve been into technology and art for almost my whole life. I love looking outside the box and sometimes I even look inside of it. Sometimes I look at things and I get inspired, there are so many views on the world that you can’t even count them. There’s so many ways to describe a single moment in time, we all make art even if we don’t realize it. \n</p>",
           "text2": "",
           "text3": ""
         },
@@ -1169,7 +1169,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12842.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1221,10 +1221,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1395,7 +1395,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12842.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
               "width": 128,
               "active": true,
               "link": "",
