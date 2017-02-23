@@ -46,10 +46,10 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": 5,
+            "timeout": "10",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -91,7 +91,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/Q5-2IHTBte4",
@@ -613,7 +613,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -830,7 +830,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1053,7 +1053,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1228,7 +1228,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1454,7 +1454,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1282.jpg",
               "width": 128,
               "active": true,
               "link": "",
