@@ -63,7 +63,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Enter for Wonder</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/y2HMbR06sv8",
@@ -81,6 +81,20 @@
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "IMAGE SLIDE",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Q5-2IHTBte4",
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
@@ -599,7 +613,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -816,7 +830,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1039,7 +1053,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1214,7 +1228,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1440,7 +1454,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
               "width": 128,
               "active": true,
               "link": "",
