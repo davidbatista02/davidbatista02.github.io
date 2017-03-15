@@ -458,7 +458,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-2017-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -523,7 +523,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-logo-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15002.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15006.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -680,7 +680,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1283.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1287.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -903,7 +903,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1283.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1287.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1078,7 +1078,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1283.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1287.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1304,7 +1304,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1283.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1287.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -2931,7 +2931,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-2017-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
