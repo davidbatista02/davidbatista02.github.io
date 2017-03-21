@@ -2386,6 +2386,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/david-batista-van-gogh-starry-night-15-2000x1428-800x571.jpg",
                 "image": "@PROJECT_PATH@/assets/images/david-batista-van-gogh-starry-night-15-2000x1428.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/david-batista-van-gogh-starry-night-16-2000x1428-800x571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/david-batista-van-gogh-starry-night-16-2000x1428.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
