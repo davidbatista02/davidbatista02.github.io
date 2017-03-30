@@ -267,7 +267,7 @@
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.youtube.com/watch?v=1pnvE7adx54\" data-toolbar=\"-mbrBtnMove\">Experience My Story</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.youtube.com/watch?v=Q5-2IHTBte4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Experience My Story</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -521,7 +521,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-logo-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x150014.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x150016.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -678,7 +678,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12815.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12817.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -901,7 +901,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12815.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12817.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1076,7 +1076,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12815.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12817.jpg",
               "width": 128,
               "active": true,
               "link": "",
