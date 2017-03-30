@@ -29,7 +29,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "David Batista",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -521,7 +521,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-logo-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15008.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x150010.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -678,7 +678,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1289.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12811.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -901,7 +901,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1289.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12811.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1076,7 +1076,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1289.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12811.jpg",
               "width": 128,
               "active": true,
               "link": "",
