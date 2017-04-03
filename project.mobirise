@@ -60,12 +60,12 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Enter for Wonder</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Enter for Wonder</a> "
               },
               {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/dsc-4-2000x1329.jpg",
+                "playVideo": false,
                 "videoUrl": "https://youtu.be/y2HMbR06sv8",
                 "overlay": true,
                 "contentAlign": "left",
@@ -78,7 +78,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/marvel-symbols-comepleted-6-2000x1973.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-6-2000x1329.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -91,7 +91,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"adobephotoshop.html\" data-toolbar=\"-mbrBtnMove\">Click For More</a>  "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/brain-crane-2000x2187.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/Q5-2IHTBte4",
@@ -540,7 +540,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-logo-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15003.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1579,8 +1579,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brain-crane-copy-2000x2187-800x874.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brain-crane-copy-2000x2187.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-10-2000x1329-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-10-2000x1329.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1589,8 +1589,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/buddha-island-version-1-2000x1882-800x752.jpg",
-                "image": "@PROJECT_PATH@/assets/images/buddha-island-version-1-2000x1882.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-11-2000x1329-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-11-2000x1329.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1599,8 +1599,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/postcard-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/postcard-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2-2000x1329-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2-2000x1329.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-4-2000x1329-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4-2000x1329.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1608,7 +1618,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#034531",
+            "bgColor": "#2f463f",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": true
