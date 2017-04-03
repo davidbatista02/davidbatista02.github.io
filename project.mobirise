@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 92,
+    "uniqCompNum": 93,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -186,7 +186,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#034531",
+            "bgColor": "#456c61",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": true
@@ -194,6 +194,25 @@
           "_anchor": "gallery3-1e",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#d8ffc2"
+          },
+          "text": "<blockquote><p>Si vas acer algo asegurate que lo agas con tu corazón</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; - Gregorio Batista 2k17<br></p></blockquote>",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
@@ -521,7 +540,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-logo-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x150018.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -678,7 +697,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12819.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -901,7 +920,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12819.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1076,7 +1095,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x12819.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-128x1281.jpg",
               "width": 128,
               "active": true,
               "link": "",
