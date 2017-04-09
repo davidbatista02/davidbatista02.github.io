@@ -540,7 +540,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-logo-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15001.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2476,10 +2476,10 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-4-2000x1329.jpg",
             "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -2512,7 +2512,15 @@
           },
           "title": "<span style=\"font-weight: normal;\">Imagine Dragons</span> Beliver<span style=\"font-weight: normal;\">&nbsp;</span><br><span style=\"font-weight: normal;\">MAKE THE CUT</span>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=4NlJog9nqwE&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">Direct Link</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=4NlJog9nqwE&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">Direct Link</a>",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [

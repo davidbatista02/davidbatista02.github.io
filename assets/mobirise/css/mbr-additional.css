@@ -1006,6 +1006,12 @@ h6,
   background-color: #ffffff;
 }
 
+#msg-box4-2p SPAN {
+  color: #ffffff;
+}
+#msg-box4-2p H3 {
+  color: #ffffff;
+}
 #menu-2n .hide-buttons .nav-btn {
   display: none !important;
 }
