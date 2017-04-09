@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Premiere.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 94,
+    "uniqCompNum": 98,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -486,7 +486,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">David Batista</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">&nbsp; BIOGRAPHY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"biography.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Biography&nbsp;<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"biography.html\">Full Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2\">Biography with Picture</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-c\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobephotoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobephotoshop.html\">Class Pieces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"work.html\">Master Piece</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeillustrator.html\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/Discuss IT 1.pdf\">DiscussIT 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/Discuss IT Topic 2.pdf\">DiscussIT 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/Discuss IT Topic 3 ..pdf\">DiscussIT 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/Discuss IT Topic 4.pdf\">DiscussIT 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/David Batista-Discuss IT Topic 5.pdf\">DiscussIT 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://davidbatista02.github.io/Discuss IT Topic 6 .pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobedreamweaver.html\">Adobe Dreamweaver</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-c\" aria-expanded=\"false\">Goals</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"work.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WORK IN PROGRESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Video Proejct.html\">Video Project</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">&nbsp; BIOGRAPHY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"biography.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Biography&nbsp;<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"biography.html\">Full Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2\">Biography with Picture</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-c\">Goals</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobephotoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobephotoshop.html\">Class Pieces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"work.html\">Master Piece</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeillustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeillustrator.html\">Adobe Premiere Pro&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/Discuss IT 1.pdf\">DiscussIT 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/Discuss IT Topic 2.pdf\">DiscussIT 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/Discuss IT Topic 3 ..pdf\">DiscussIT 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/Discuss IT Topic 4.pdf\">DiscussIT 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/David Batista-Discuss IT Topic 5.pdf\">DiscussIT 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://davidbatista02.github.io/Discuss IT Topic 6 .pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobedreamweaver.html\">Adobe Dreamweaver</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-c\" aria-expanded=\"false\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"work.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK IN PROGRESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Video Proejct.html\">Video Project</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -540,7 +540,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-logo-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15004.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2442,6 +2442,227 @@
         {
           "_name": "footer1",
           "_anchor": "footer1-26",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 David Batista"
+        }
+      ]
+    },
+    "Premiere.html": {
+      "settings": {
+        "title": "Premiere Pro ",
+        "meta_descr": "Site Maker Description"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2p",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "www.youtube.com/watch?v=4NlJog9nqwE&feature=youtu.be",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Imagine Dragons</span> Beliver<span style=\"font-weight: normal;\">&nbsp;</span><br><span style=\"font-weight: normal;\">MAKE THE CUT</span>",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=4NlJog9nqwE&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">Direct Link</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-2m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>15420 SW 46th Lane 33185 Miami, Florida<br><br>\n<strong>Contacts</strong><br>\nEmail: dbatista@miamiartsstudio.com<br>\nPhone: +1 786 397 5427<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Programs</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"adobephotoshop.html\">P</a>hotoshop<a class=\"text-white\" href=\"adobephotoshop.html\"></a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>llustrator</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "dbatista@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2n",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.7",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-2017-white-version-small-cross-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">David Batista</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">&nbsp; BIOGRAPHY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"biography.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Biography&nbsp;<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"biography.html\">Full Biography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2\">Biography with Picture</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-c\">Goals</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobephotoshop.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobephotoshop.html\">Class Pieces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"work.html\">Master Piece</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeillustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeillustrator.html\">Adobe Premiere Pro&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/Discuss IT 1.pdf\">DiscussIT 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/Discuss IT Topic 2.pdf\">DiscussIT 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/Discuss IT Topic 3 ..pdf\">DiscussIT 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/Discuss IT Topic 4.pdf\">DiscussIT 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://davidbatista02.github.io/David Batista-Discuss IT Topic 5.pdf\">DiscussIT 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://davidbatista02.github.io/Discuss IT Topic 6 .pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobedreamweaver.html\">Adobe Dreamweaver</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-c\" aria-expanded=\"false\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"work.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORK IN PROGRESS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Video Proejct.html\">Video Project</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2o",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
