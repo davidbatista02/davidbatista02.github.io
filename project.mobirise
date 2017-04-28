@@ -540,7 +540,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-logo-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15001.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -632,7 +632,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/robot-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/robot-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -663,6 +663,16 @@
                 "image": "@PROJECT_PATH@/assets/images/star-trek-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/youth-gun-violence-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/youth-gun-violence-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 1,
