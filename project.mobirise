@@ -411,10 +411,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -456,7 +456,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.7",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -464,7 +464,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -542,7 +542,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-logo-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15005.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15007.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -789,7 +789,7 @@
           "_anchor": "menu-9",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.7",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -797,7 +797,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -1012,7 +1012,7 @@
           "_anchor": "menu-l",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.7",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -1020,7 +1020,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -1343,7 +1343,7 @@
           "_anchor": "menu-1c",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.7",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -1351,7 +1351,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -1597,7 +1597,7 @@
           "_anchor": "menu-1n",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.7",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -1605,7 +1605,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -1821,7 +1821,7 @@
           "_anchor": "menu-1t",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.7",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -1829,7 +1829,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -2195,7 +2195,7 @@
           "_anchor": "menu-21",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.7",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -2203,7 +2203,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -2417,7 +2417,7 @@
           "_anchor": "menu-25",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.7",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -2425,7 +2425,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -2704,7 +2704,7 @@
           "_anchor": "menu-2n",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.7",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -2712,7 +2712,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": false,
