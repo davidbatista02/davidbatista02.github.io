@@ -49,8 +49,8 @@
             "timeout": "10",
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-8-2000x1329.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/dsc-13-2000x1329.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -63,7 +63,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Enter for Wonder</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/dsc-4-2000x1329.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/y2HMbR06sv8",
