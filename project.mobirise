@@ -542,7 +542,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-logo-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x150011.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x15000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2577,7 +2577,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/Ak8rFnwPKWc",
+              "src": "https://youtu.be/nSHeBTfY4Dk",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -2590,7 +2590,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">A THOUSAND MILLION REASONS</span><br><span style=\"font-weight: normal;\">Collin Hay</span>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/Ak8rFnwPKWc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Direct Link</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/nSHeBTfY4Dk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Direct Link</a>"
         },
         {
           "_tags": [
@@ -2659,10 +2659,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"

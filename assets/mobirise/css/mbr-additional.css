@@ -1033,11 +1033,11 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #menu-2n .link {
-  font-size: 0.7rem;
+  font-size: 0.95rem;
 }
 #menu-2n .dropdown-item,
 #menu-2n .nav-dropdown-sm .link {
-  font-size: 0.758rem;
+  font-size: 1.029rem;
 }
 #menu-2n .link:hover,
 #menu-2n .dropdown-item:hover,
