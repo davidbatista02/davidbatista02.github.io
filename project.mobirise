@@ -411,10 +411,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -456,7 +456,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
@@ -744,10 +744,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -967,10 +967,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1298,10 +1298,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1552,10 +1552,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1776,10 +1776,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2372,10 +2372,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
