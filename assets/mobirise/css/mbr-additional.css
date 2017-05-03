@@ -455,11 +455,11 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #menu-0 .link {
-  font-size: 0.6rem;
+  font-size: 0.9rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 0.975rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -524,11 +524,11 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #menu-9 .link {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 #menu-9 .dropdown-item,
 #menu-9 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.975rem;
 }
 #menu-9 .link:hover,
 #menu-9 .dropdown-item:hover,
@@ -666,11 +666,11 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #menu-1c .link {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 #menu-1c .dropdown-item,
 #menu-1c .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.975rem;
 }
 #menu-1c .link:hover,
 #menu-1c .dropdown-item:hover,
