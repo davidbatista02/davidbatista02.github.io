@@ -952,11 +952,11 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #menu-25 .link {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 #menu-25 .dropdown-item,
 #menu-25 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.975rem;
 }
 #menu-25 .link:hover,
 #menu-25 .dropdown-item:hover,
@@ -1033,11 +1033,11 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #menu-2n .link {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 #menu-2n .dropdown-item,
 #menu-2n .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.975rem;
 }
 #menu-2n .link:hover,
 #menu-2n .dropdown-item:hover,
