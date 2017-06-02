@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 99,
+    "uniqCompNum": 100,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/fabicon-128x128.png",
     "noImageResize": ""
@@ -2588,9 +2588,67 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">A THOUSAND MILLION REASONS</span><br><span style=\"font-weight: normal;\">Collin Hay</span>",
+          "title": "<span style=\"font-weight: normal;\">A THOUSAND MILLION REASONS</span><br><span style=\"font-weight: normal;\">Collin Hay<br></span><br>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/Gk-_P7qJHc0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Direct Link</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box4-2r",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-1-2000x1329.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/Ljh_JYQ3-2o",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">The Ballerina</span><br>",
+          "text": "<p>Original Film</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/Ljh_JYQ3-2o\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Direct Link</a>"
         },
         {
           "_tags": [
