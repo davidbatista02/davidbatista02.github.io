@@ -593,11 +593,11 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #menu-l .link {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 #menu-l .dropdown-item,
 #menu-l .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.975rem;
 }
 #menu-l .link:hover,
 #menu-l .dropdown-item:hover,
@@ -739,11 +739,11 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #menu-1n .link {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 #menu-1n .dropdown-item,
 #menu-1n .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.975rem;
 }
 #menu-1n .link:hover,
 #menu-1n .dropdown-item:hover,
@@ -808,11 +808,11 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #menu-1t .link {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 #menu-1t .dropdown-item,
 #menu-1t .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.975rem;
 }
 #menu-1t .link:hover,
 #menu-1t .dropdown-item:hover,
@@ -877,11 +877,11 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #menu-21 .link {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 #menu-21 .dropdown-item,
 #menu-21 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.975rem;
 }
 #menu-21 .link:hover,
 #menu-21 .dropdown-item:hover,
