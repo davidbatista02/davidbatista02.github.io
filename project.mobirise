@@ -23,7 +23,7 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 103,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.1.7",
     "favicon": "@PROJECT_PATH@/assets/images/fabicon-128x128.png",
     "noImageResize": ""
   },
@@ -46,8 +46,11 @@
           "_name": "slider",
           "_params": {
             "autoplay": true,
+            "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
             "timeout": "10",
             "slides": [
               {
@@ -106,10 +109,7 @@
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"personal.html\" data-toolbar=\"-mbrBtnMove\">Click For More</a> "
               }
-            ],
-            "fullScreen": true,
-            "bgColor": "#fff",
-            "showBullets": true
+            ]
           },
           "_anchor": "slider-19",
           "articleLayout": false
@@ -126,10 +126,10 @@
           "_name": "header3",
           "_anchor": "header3-1f",
           "_params": {
+            "showMeta": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#a38f84",
-            "showMeta": false
+            "bgColor": "#a38f84"
           },
           "title": "",
           "meta": "By John Smith posted July 20, 2016"
@@ -141,8 +141,15 @@
           ],
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
             "paddingTop": 1,
             "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#efefef",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -184,14 +191,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#efefef",
-            "filterBgColor": true,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-1e",
           "articleLayout": false,
@@ -228,10 +228,10 @@
           "_name": "header3",
           "_anchor": "header3-1y",
           "_params": {
+            "showMeta": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#a38f84",
-            "showMeta": false
+            "bgColor": "#a38f84"
           },
           "title": "",
           "meta": "By John Smith posted July 20, 2016"
@@ -248,10 +248,10 @@
           "_name": "header3",
           "_anchor": "header3-1g",
           "_params": {
+            "showMeta": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#a38f84",
-            "showMeta": false
+            "bgColor": "#a38f84"
           },
           "title": "",
           "meta": "By John Smith posted July 20, 2016"
@@ -268,23 +268,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2i",
           "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": true,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/elephant-background-2000x1125.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": true
+            "overlayOpacity": 0.5
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
@@ -309,13 +309,13 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "text": "FOLLOW US",
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC25Miycvib5ht70qlFmuZjw/featured\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
@@ -330,13 +330,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "text1": "<strong>Address</strong><br>15420 SW 46th Lane 33185 Miami, Florida<br><br>\n<strong>Contacts</strong><br>\nEmail: dbatista@miamiartsstudio.com<br>\nPhone: +1 786 397 5427<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Programs</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"adobephotoshop.html\">P</a>hotoshop<a class=\"text-white\" href=\"adobephotoshop.html\"></a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>llustrator</li></ul>",
@@ -385,7 +385,7 @@
             "twitter": "",
             "google": "",
             "postToLoad": 3,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImage": "/addons/social-feed/feed/assets/comments_bg.jpg",
             "bgImageRadio": false,
             "bgColor": "#fff",
             "bgColorRadio": true,
@@ -455,6 +455,12 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -463,13 +469,7 @@
               "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -497,13 +497,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 David Batista"
         }
@@ -523,8 +523,15 @@
           ],
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
             "paddingTop": "4",
             "paddingBottom": "2",
+            "filterBgColor": true,
+            "bgColor": "#2969b0",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -676,14 +683,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#2969b0",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-11",
           "articleLayout": false,
@@ -699,13 +699,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -788,6 +788,12 @@
           "_name": "menu",
           "_anchor": "menu-9",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -796,13 +802,7 @@
               "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -830,13 +830,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 David Batista"
         }
@@ -856,8 +856,15 @@
           ],
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
             "paddingTop": "4",
             "paddingBottom": "1",
+            "filterBgColor": true,
+            "bgColor": "#faaf40",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -899,14 +906,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#faaf40",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-n",
           "articleLayout": false,
@@ -922,13 +922,13 @@
             "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -1011,6 +1011,12 @@
           "_name": "menu",
           "_anchor": "menu-l",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -1019,13 +1025,7 @@
               "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1053,13 +1053,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 David Batista"
         }
@@ -1084,10 +1084,10 @@
           "_name": "header3",
           "_anchor": "header3-1k",
           "_params": {
+            "showMeta": false,
             "paddingTop": "5",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "My Biography",
           "meta": "By John Smith posted July 20, 2016"
@@ -1113,26 +1113,26 @@
           "_name": "features6",
           "_anchor": "features6-1i",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -1241,13 +1241,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "text1": "<strong>Address</strong><br>15420 SW 46th Lane 33185 Miami, Florida<br><br>\n<strong>Contacts</strong><br>\nEmail: dbatista@miamiartsstudio.com<br>\nPhone: +1 786 397 5427<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Programs</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"adobephotoshop.html\">P</a>hotoshop<a class=\"text-white\" href=\"adobephotoshop.html\"></a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>llustrator</li></ul>",
@@ -1342,6 +1342,12 @@
           "_name": "menu",
           "_anchor": "menu-1c",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -1350,13 +1356,7 @@
               "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1384,13 +1384,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 David Batista"
         }
@@ -1409,8 +1409,15 @@
           ],
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
             "paddingTop": "4",
             "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#2969b0",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -1492,14 +1499,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#2969b0",
-            "filterBgColor": true,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-1q",
           "articleLayout": false,
@@ -1517,10 +1517,10 @@
           "_name": "header3",
           "_anchor": "header3-1r",
           "_params": {
+            "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ffffff",
-            "showMeta": true
+            "bgColor": "#ffffff"
           },
           "title": "",
           "meta": "All Rights to The Artists In Wynwood and The Local Area"
@@ -1535,13 +1535,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "text1": "<strong>Address</strong><br>15420 SW 46th Lane 33185 Miami, Florida<br><br>\n<strong>Contacts</strong><br>\nEmail: dbatista@miamiartsstudio.com<br>\nPhone: +1 786 397 5427<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Programs</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"adobephotoshop.html\">P</a>hotoshop<a class=\"text-white\" href=\"adobephotoshop.html\"></a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>llustrator</li></ul>",
@@ -1636,6 +1636,12 @@
           "_name": "menu",
           "_anchor": "menu-1n",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -1644,13 +1650,7 @@
               "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1678,13 +1678,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 David Batista"
         }
@@ -1703,8 +1703,15 @@
           ],
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
             "paddingTop": "4",
             "paddingBottom": "1",
+            "filterBgColor": true,
+            "bgColor": "#034531",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -1736,14 +1743,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#034531",
-            "filterBgColor": true,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-1v",
           "articleLayout": false,
@@ -1759,13 +1759,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "text1": "<strong>Address</strong><br>15420 SW 46th Lane 33185 Miami, Florida<br><br>\n<strong>Contacts</strong><br>\nEmail: dbatista@miamiartsstudio.com<br>\nPhone: +1 786 397 5427<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Programs</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"adobephotoshop.html\">P</a>hotoshop<a class=\"text-white\" href=\"adobephotoshop.html\"></a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>llustrator</li></ul>",
@@ -1860,6 +1860,12 @@
           "_name": "menu",
           "_anchor": "menu-1t",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -1868,13 +1874,7 @@
               "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1902,13 +1902,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 David Batista"
         }
@@ -1927,8 +1927,15 @@
           ],
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
             "paddingTop": "4",
             "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -2110,14 +2117,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-23",
           "articleLayout": false,
@@ -2133,13 +2133,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "text1": "<strong>Address</strong><br>15420 SW 46th Lane 33185 Miami, Florida<br><br>\n<strong>Contacts</strong><br>\nEmail: dbatista@miamiartsstudio.com<br>\nPhone: +1 786 397 5427<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Programs</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"adobephotoshop.html\">P</a>hotoshop<a class=\"text-white\" href=\"adobephotoshop.html\"></a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>llustrator</li></ul>",
@@ -2234,6 +2234,12 @@
           "_name": "menu",
           "_anchor": "menu-21",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -2242,13 +2248,7 @@
               "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -2276,13 +2276,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 David Batista"
         }
@@ -2309,24 +2309,24 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-28",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
+            "overlayOpacity": 0.5
           },
           "button": "    <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"davidbatista02.github.io/Narration.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here to see the narration</a>  ",
           "title": "The Narration",
@@ -2355,13 +2355,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "text1": "<strong>Address</strong><br>15420 SW 46th Lane 33185 Miami, Florida<br><br>\n<strong>Contacts</strong><br>\nEmail: dbatista@miamiartsstudio.com<br>\nPhone: +1 786 397 5427<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Programs</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"adobephotoshop.html\">P</a>hotoshop<a class=\"text-white\" href=\"adobephotoshop.html\"></a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>llustrator</li></ul>",
@@ -2456,6 +2456,12 @@
           "_name": "menu",
           "_anchor": "menu-25",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -2464,13 +2470,7 @@
               "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -2498,13 +2498,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 David Batista"
         }
@@ -2532,25 +2532,25 @@
           },
           "_anchor": "msg-box4-2p",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-4-2000x1329.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
@@ -2590,25 +2590,25 @@
           },
           "_anchor": "msg-box4-2q",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-11-2000x1329.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
@@ -2648,25 +2648,25 @@
           },
           "_anchor": "msg-box4-2r",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-1-2000x1329.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
@@ -2700,13 +2700,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "text1": "<strong>Address</strong><br>15420 SW 46th Lane 33185 Miami, Florida<br><br>\n<strong>Contacts</strong><br>\nEmail: dbatista@miamiartsstudio.com<br>\nPhone: +1 786 397 5427<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Programs</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"adobephotoshop.html\">P</a>hotoshop<a class=\"text-white\" href=\"adobephotoshop.html\"></a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">I</a>llustrator</li></ul>",
@@ -2801,6 +2801,12 @@
           "_name": "menu",
           "_anchor": "menu-2n",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -2809,13 +2815,7 @@
               "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -2843,13 +2843,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 David Batista"
         }
