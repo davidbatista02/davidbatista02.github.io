@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#494949",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -19,7 +19,12 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#2b3651",
+        "#2e2e2e",
+        "#494949"
+      ]
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 103,
@@ -55,7 +60,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc-13-2000x1329.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1329.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -68,8 +73,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Enter for Wonder</a> "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/20170627-162614-hdr-2000x1125.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/20170814-155935-effects-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/y2HMbR06sv8",
                 "overlay": true,
@@ -96,7 +101,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"adobephotoshop.html\" data-toolbar=\"-mbrBtnMove\">Click For More</a>  "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/brain-crane-2000x2187.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/Q5-2IHTBte4",
@@ -176,10 +181,11 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pink-floyd-cd-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/pink-floyd-cd-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170801-193355-effects-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170801-193355-effects-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true,
+                "alt": ""
               },
               {
                 "tags": "Animated",
@@ -189,7 +195,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/poster-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/poster-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -212,7 +218,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#28324e"
+            "bgColor": "#494949"
           },
           "text": "<blockquote><p>Si vas acer algo asegurate que lo agas con tu corazón.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; - Gregorio Batista 2k17<br></p></blockquote>"
         },
@@ -312,13 +318,13 @@
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#494949",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
           "text": "FOLLOW US",
-          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC25Miycvib5ht70qlFmuZjw/featured\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC25Miycvib5ht70qlFmuZjw/featured\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/batista_art_/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_tags": [
@@ -333,7 +339,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -439,7 +445,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#494949!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -500,7 +506,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -702,7 +708,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -772,7 +778,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#494949!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -833,7 +839,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -925,7 +931,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -995,7 +1001,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#494949!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1056,7 +1062,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1244,7 +1250,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1326,7 +1332,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#494949!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1387,7 +1393,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1398,7 +1404,7 @@
     },
     "cinematography.html": {
       "settings": {
-        "title": "Web Builder Title",
+        "title": "Photography",
         "meta_descr": "Web Builder Description"
       },
       "components": [
@@ -1497,7 +1503,29 @@
                 "thumb": "@PROJECT_PATH@/assets/images/lu-lu-ver-2000x1274-800x509.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lu-lu-ver-2000x1274.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170801-2000x1330-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170801-2000x1330.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170801-2000x1330-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170801-2000x1330.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
               }
             ]
           },
@@ -1523,7 +1551,7 @@
             "bgColor": "#ffffff"
           },
           "title": "",
-          "meta": "All Rights to The Artists In Wynwood and The Local Area"
+          "meta": "All Rights to The Artists In Wynwood and The Local Area for Certain Images"
         },
         {
           "_tags": [
@@ -1538,7 +1566,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1620,7 +1648,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#494949!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1681,7 +1709,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1762,7 +1790,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1844,7 +1872,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#494949!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1905,7 +1933,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1933,7 +1961,7 @@
             "paddingTop": "4",
             "paddingBottom": 1,
             "filterBgColor": true,
-            "bgColor": "#000000",
+            "bgColor": "#2e2e2e",
             "showText": false,
             "filter": false,
             "images": [
@@ -2136,7 +2164,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2218,7 +2246,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#494949!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2279,7 +2307,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -2358,7 +2386,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2440,7 +2468,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#494949!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2501,7 +2529,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -2703,7 +2731,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2785,7 +2813,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#494949!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2846,7 +2874,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#494949",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
