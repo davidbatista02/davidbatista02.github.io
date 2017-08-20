@@ -1759,12 +1759,12 @@
             "paddingTop": "4",
             "paddingBottom": "1",
             "filterBgColor": true,
-            "bgColor": "#034531",
+            "bgColor": "#2e2e2e",
             "showText": false,
-            "filter": false,
+            "filter": true,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Digital",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1774,7 +1774,7 @@
                 "active": false
               },
               {
-                "tags": "Beautiful",
+                "tags": "Digital",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1784,14 +1784,69 @@
                 "active": false
               },
               {
-                "tags": "Beautiful",
+                "tags": "Digital",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/postcard-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/postcard-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Sketches",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-08-19-21.15.02-602x451-602x451.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-08-19-21.15.02-602x451.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Sketches",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-08-19-21.16.38-604x340-604x340.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-08-19-21.16.38-604x340.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Sketches",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170406-161628-1-copy-1657x2305-800x1112.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170406-161628-1-copy-1657x2305.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Painting",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-08-19-21.17.50-475x596-475x596.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-08-19-21.17.50-475x596.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Painting",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-08-19-21.18.06-601x597-601x597.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-08-19-21.18.06-601x597.png",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
               }
             ]
           },
