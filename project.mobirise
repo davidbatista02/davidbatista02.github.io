@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "cinematography.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1521,32 +1521,32 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170801-2000x1330-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170801-2000x1330.jpg",
-                "caption": "Type caption here",
-                "active": true,
-                "alt": ""
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170801-2000x1330-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170801-2000x1330.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170814-155935-effects-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20170814-155935-effects-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170804-203022-effects-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170804-203022-effects-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170801-2000x1330-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170801-2000x1330.jpg",
+                "caption": "Type caption here",
+                "active": true,
                 "alt": ""
               }
             ]
