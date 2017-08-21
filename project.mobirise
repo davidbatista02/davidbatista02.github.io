@@ -29,7 +29,7 @@
     "versionFirst": "3.10.4",
     "uniqCompNum": 103,
     "versionPublish": "4.1.7",
-    "favicon": "@PROJECT_PATH@/assets/images/2018-logo-128x113.png",
+    "favicon": "@PROJECT_PATH@/assets/images/2018-logo-v2-128x93.png",
     "noImageResize": ""
   },
   "pages": {
@@ -480,7 +480,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2018-logo-white-144x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2018-logo-v2-white-175x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -813,7 +813,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2018-logo-white-144x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2018-logo-v2-white-175x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1036,7 +1036,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2018-logo-white-144x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2018-logo-v2-white-175x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1367,7 +1367,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2018-logo-white-144x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2018-logo-v2-white-175x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1705,7 +1705,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2018-logo-white-144x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2018-logo-v2-white-175x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1984,7 +1984,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2018-logo-white-144x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2018-logo-v2-white-175x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2358,7 +2358,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2018-logo-white-144x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2018-logo-v2-white-175x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2580,7 +2580,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2018-logo-white-144x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2018-logo-v2-white-175x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2925,7 +2925,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2018-logo-white-144x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2018-logo-v2-white-175x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
